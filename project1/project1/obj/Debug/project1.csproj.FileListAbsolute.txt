@@ -1,0 +1,16 @@
+C:\Users\sahil\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\sahil\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\sahil\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form3.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form4.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form5.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form6.resources
+C:\Users\sahil\source\repos\project1\project1\obj\Debug\project1.Form7.resources
